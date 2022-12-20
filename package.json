@@ -1,0 +1,30 @@
+{
+  "name": "imageslider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeOneCoder/ImageSlider.git"
+  },
+  "keywords": [
+    "image",
+    "slider",
+    "animations"
+  ],
+  "author": "Davidson Akinade Adepoju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeeOneCoder/ImageSlider/issues"
+  },
+  "homepage": "https://github.com/DeeOneCoder/ImageSlider#readme",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "ejs": "^3.1.8",
+    "pug": "^3.0.2"
+  }
+}
